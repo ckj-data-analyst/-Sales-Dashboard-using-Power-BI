@@ -43,8 +43,9 @@ This project analyzes sales performance using Power BI to generate insights on r
 * Profit shows seasonal variation
 
 ## 🖼️ Dashboard Preview
+<img width="888" height="500" alt="Main_Dashboard" src="https://github.com/user-attachments/assets/f2e3fb4b-5dbb-4cc7-89fa-ffc1a5ecd83e" />
 
-Images/Main_Dashboard.PNG
+
 
 ## ▶️ How to Use
 
