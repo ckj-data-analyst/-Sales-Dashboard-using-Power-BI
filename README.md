@@ -44,7 +44,7 @@ This project analyzes sales performance using Power BI to generate insights on r
 
 ## 🖼️ Dashboard Preview
 
-
+Images/Main_Dashboard.PNG
 
 ## ▶️ How to Use
 
